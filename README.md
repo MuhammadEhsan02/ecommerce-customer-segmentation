@@ -90,3 +90,7 @@ This project demonstrates how machine learning and NLP techniques can be applied
 ## Contact
 
 For any inquiries or further collaboration, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/muhammad--ehsan).
+
+--- 
+
+<h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> this repository!</h3>
