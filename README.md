@@ -1,6 +1,6 @@
 # Predictive Modeling on Customer Segmentation in E-Commerce
 
-This repository is dedicated to my final year project, "Predictive Modeling on Customer Segmentation in E-Commerce," which was conducted as part of the UGD in Artificial Intelligence at NED University of Engineering and Technology.
+This repository is dedicated to my final year project, "**Predictive Modeling on Customer Segmentation in E-Commerce**," which was conducted as part of the UGD in Artificial Intelligence at NED University of Engineering and Technology.
 
 ## Project Overview
 
