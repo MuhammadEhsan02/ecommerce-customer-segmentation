@@ -11,12 +11,10 @@ from sklearn.decomposition import PCA
 from ydata_profiling import ProfileReport
 from streamlit_pandas_profiling import st_profile_report
 
-
 import warnings
 warnings.filterwarnings("ignore", category=UserWarning)
 warnings.filterwarnings("ignore", category=FutureWarning)
 warnings.filterwarnings("ignore", category=ImportWarning)
-
 
 # Load models
 model_classification = joblib.load('Brazilian Ecommerce Classification.bkl')
