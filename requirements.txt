@@ -11,3 +11,6 @@ pydantic==2.11.5
 requests==2.32.3
 sqlalchemy==2.0.41
 wordcloud==1.9.4
+streamlit-pandas-profiling==0.1.3
+
+
