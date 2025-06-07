@@ -4,12 +4,14 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import joblib
 import streamlit as st
+import imblearn
 from sklearn.preprocessing import  StandardScaler
 from sklearn.cluster import KMeans
 from sklearn.cluster import AgglomerativeClustering
 from sklearn.decomposition import PCA
 from ydata_profiling import ProfileReport
 from streamlit_pandas_profiling import st_profile_report
+
 
 import warnings
 warnings.filterwarnings("ignore", category=UserWarning)
