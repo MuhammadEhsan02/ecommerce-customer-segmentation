@@ -41,47 +41,15 @@ The objective of this project is to segment customers within an e-commerce envir
 4. **Requirements**:
    - `requirements.txt`: This file contains a list of Python dependencies required to run the project seamlessly.
 
-## Dataset
+---
 
-The dataset employed in this project, sourced from Olist Shops in Brazil, is too large to be included in this repository. You can access the full dataset here: [Brazilian E-commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
+## Live Demo and Technical Report
 
-## Methodology
+- 🎯 **Streamlit App (Live GUI)**: [Open App](https://share.streamlit.io/MuhammadEhsan02/ecommerce-customer-segmentation/main/gui/GUI.py)  
+- 📄 **Technical Report (ResearchGate Preprint)**: [Read Full Thesis on ResearchGate](https://www.researchgate.net/publication/382111298_Predictive_Modeling_for_Customer_Segmentation_in_E-Commerce)
 
-The project follows a structured methodology, starting with data acquisition and cleaning, followed by exploratory data analysis to identify patterns and trends. Feature engineering was employed to create new features, and various machine learning models were trained to predict customer satisfaction. Additionally, NLP techniques were used to analyze textual data from customer reviews, providing deeper insights into customer sentiments.
+---
 
-### Key Steps:
-
-- **Data Cleaning**: Addressing missing values, outliers, and inconsistencies.
-- **Feature Engineering**: Creating new variables that capture important aspects of customer behavior.
-- **Exploratory Data Analysis (EDA)**: Visualizing and summarizing data to uncover patterns.
-- **Model Training**: Applying and tuning machine learning models to predict customer satisfaction.
-- **NLP Analysis**: Analyzing review text to extract sentiment and correlate it with overall ratings.
-- **Customer Segmentation**: Using RFM analysis and clustering to group customers into meaningful segments.
-
-## Future Work
-
-Once my thesis is officially published, this repository will be updated to include the publication along with any new findings or improvements made to the models. The publication will provide a detailed explanation of the methodologies and insights gained from this project.
-
-## How to Use
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/MuhammadEhsan02/ecommerce-customer-segmentation.git
-   ```
-
-2. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Explore the Notebook**:
-   - Open and run the `Customer_Segmentation.ipynb` Jupyter notebook for a complete walkthrough of the analysis.
-
-4. **Run the GUI Application**:
-   - Navigate to the `gui` folder and run the Streamlit app:
-   ```bash
-   streamlit run GUI.py
-   ```
 
 ## Conclusion
 
