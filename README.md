@@ -45,7 +45,7 @@ The objective of this project is to segment customers within an e-commerce envir
 
 ## Live Demo and Technical Report
 
-- 🎯 **Streamlit App (Live GUI)**: [Open App](https://share.streamlit.io/MuhammadEhsan02/ecommerce-customer-segmentation/main/gui/GUI.py)  
+- 🎯 **Streamlit App (Live GUI)**: [Open App](https://ecommerce-customer-segmentation.streamlit.app/)  
 - 📄 **Technical Report (ResearchGate Preprint)**: [Read Full Thesis on ResearchGate](https://www.researchgate.net/publication/382111298_Predictive_Modeling_for_Customer_Segmentation_in_E-Commerce)
 
 ---
